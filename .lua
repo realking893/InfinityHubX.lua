@@ -9,7 +9,7 @@ local support = {
     ["alysse"] = false,
     ["ArceusX"] = true,
     ["Electron"] = false,
-    ["Xeno"] = true,
+    ["Xeno"] = true, -- Agora ele aceita o Xeno Executor
 }
 
 if support[exploit()]  then
